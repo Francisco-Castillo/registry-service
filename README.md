@@ -1,0 +1,2 @@
+# registry-service
+Eureka Server
